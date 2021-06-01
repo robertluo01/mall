@@ -7,4 +7,4 @@ new Vue({
   render: h => h(App),
 }).$mount('#app')
 
-console.log('mall')
+console.log('push test')
